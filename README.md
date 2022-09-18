@@ -10,6 +10,11 @@ target="_blank">My Smartinternz Profile
 </a>
 
 <a
-href="https://github.com/SakshiMhaskar"
+href="https://github.com/SarthMhaskar"
 target="_blank">My GitHub Profile
+</a>
+
+<a
+href="https://g.dev/SarthMhaskar18"
+target="_blank">My Google Developer Profile
 </a>
